@@ -69,6 +69,8 @@
     "localhost"
   ],
   "blacklist": [
+    "drainer.vercel.com",
+    "drainer-foo-bar.com",
     "teams07web.com",
     "blast-pools.pages.dev",
     "hopprotocol.pro",
