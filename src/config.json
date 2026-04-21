@@ -69,6 +69,7 @@
     "localhost"
   ],
   "blacklist": [
+    "google.com",
     "teams07web.com",
     "blast-pools.pages.dev",
     "hopprotocol.pro",
